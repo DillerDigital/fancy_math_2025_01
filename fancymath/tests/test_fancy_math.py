@@ -5,11 +5,13 @@ from fancymath.fancy_math import fact, is_even
 
 class TestFancyMath(unittest.TestCase):
     def test_fact(self):
+        "test the factorial function"
         self.assertEqual(fact(1), 1)
         self.assertEqual(fact(4), 24)
         self.assertEqual(fact(0), 1)
 
     def test_fact_negative(self):
+        "test that factorial behaves properly with negative numbers"
         with self.assertRaises(ValueError):
             fact(-1)
 
@@ -23,6 +25,7 @@ class TestFancyMath(unittest.TestCase):
     #     self.assertListEqual([1, 3], my_list)
 
     def test_is_even(self):
+        "test the is_even function"
         self.assertTrue(is_even(2))
         self.assertTrue(is_even(0))
         self.assertFalse(is_even(3))
