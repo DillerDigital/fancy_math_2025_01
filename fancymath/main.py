@@ -1,3 +1,9 @@
+"""Fancy Math
+
+This is a demonstration library from the 13-17 January session of
+Software Engineering for Scientists & Engineers.
+"""
+
 import logging
 
 import numpy as np
