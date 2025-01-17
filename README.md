@@ -1,4 +1,7 @@
 # Fancy Math with Unit Tests
+This project demonstrates unit testing and source control for the SWNG class.
+
+One of the things we demonstrated was branch merges.
 
 This project demonstrates unit testing and source control for the Software Engineering class.
 
