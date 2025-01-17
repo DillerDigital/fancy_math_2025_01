@@ -3,6 +3,7 @@ This project demonstrates unit testing and source control for the SWNG class.
 
 One of the things we demonstrated was branch merges.
 
+Now add a line where I removed it in the other branch
 ## Installation
 - Make sure that your virtual environment is activated by typing the following at a CMD prompt:
     ```
