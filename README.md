@@ -1,4 +1,5 @@
 # Fancy Math with Unit Tests
+This project demonstrates unit testing and source control for the SWNG class.
 
 ## Installation
 - Make sure that your virtual environment is activated by typing the following at a CMD prompt:
