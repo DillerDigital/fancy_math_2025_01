@@ -1,6 +1,7 @@
 [project]
 name = "fancymath"
 version = "0.1.0"
+readme = "README.md"
 
 [build-system]
 requires = ["setuptools>=61.0"]
