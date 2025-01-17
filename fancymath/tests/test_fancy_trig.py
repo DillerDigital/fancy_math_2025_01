@@ -13,3 +13,7 @@ class TestGuassianSum(unittest.TestCase):
 
         result = gauss_sum(n)
         self.assertEqual(expected, result)
+
+
+if __name__ == '__main__':
+    unittest.main()
